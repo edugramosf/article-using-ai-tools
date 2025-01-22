@@ -20,9 +20,9 @@ O objetivo do projeto é gerar um artigo técnico com:
 ---
 
 ## 💻 Tecnologias Utilizadas no Projeto
-- **ChatGPT** - Para geração de título e conteúdo.
-- **Lexica.art** - Para gerar imagens.
-- **PowerPoint** - Para formatação de banners e layouts.
+- [**ChatGPT**](https://chatgpt.com/) - Para geração de título e conteúdo.
+- [**Lexica.art**](https://lexica.art/) - Para gerar imagens.
+- [**PowerPoint**](https://www.microsoft.com/pt-br/microsoft-365/powerpoint) - Para formatação de banners e layouts.
 
 ---
 
