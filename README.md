@@ -5,7 +5,7 @@
 
 ---
 
-## Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
 O objetivo do projeto é gerar um artigo técnico com:
 
